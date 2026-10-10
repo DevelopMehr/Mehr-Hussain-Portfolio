@@ -145,7 +145,7 @@ This portfolio is deployed using Netlify.
 
 Production site:
 
-**https://mehrhussainportfolio.netlify.app/**
+https://mehr-portfolio.netlify.app/
 
 The project is intended to use a Git-based workflow so future changes can be committed to GitHub and automatically deployed through Netlify.
 
